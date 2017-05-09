@@ -1,2 +1,3 @@
-# c-sharp-examples
-It contains the examples of C#
+# C# Examples
+
+This Repo contains the examples of C#.
